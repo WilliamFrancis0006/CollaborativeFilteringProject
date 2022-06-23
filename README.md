@@ -1,6 +1,6 @@
 # CollaborativeFilteringProject
  ### This project implements collaborative filtering with two datasets Book.csv and Ratings.csv. 
- First a new SparkSession is created, we define the schema for both datasets, and load each one into dataframes.
+ First a new SparkSession is created, we define the schema for both datasets, and load each one into a dataframe.
  Next we join both dataframes and give an example of filtering by userID.
  Then we build a recommendation model by randomly splitting the joint dataframe where 80% is used as training data and 20% as testing data.
  Lastly we evaluate the ALS model using RSME and the predict 5 different recommendations.
