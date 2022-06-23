@@ -11,8 +11,8 @@
   ## Task 1: 
   ### a) Create SparkSession
   ### b) Define Schema for Books & Rating csv files
-  ### Book.csv Schema
-  ### Rating.csv Schema
+  (Book.csv Schema)
+  (Rating.csv Schema)
 
 ![Screenshot from 2022-06-23 10-28-57](https://user-images.githubusercontent.com/60329354/175359217-60bf53c0-9958-47f2-b282-15bd5a2e8324.png)
 
@@ -20,8 +20,6 @@
 
 
   ### c) Load Books & Rating csv files in separate Spark DataFrames
-  ### Read Books.csv
-  ###  Read Ratings.csv
   
 ![Screenshot from 2022-06-23 10-29-25](https://user-images.githubusercontent.com/60329354/175359241-cc027b30-ee73-4208-99ad-95c2590364aa.png)
 
@@ -42,11 +40,8 @@
 
   ## Task 3: 
   ### a) Build a recommendation model using Alternating Least Squares (ALS)
-  ### Randomly splits jdf into 80% for training & 20% for testData
+  (Randomly splits jdf into 80% for training & 20% for testData)
   ###  b) Evaluate the ALS model using Root Mean Square Error (RSME)
-  ###  evaluate the als model
-  ### compute root mean square error(rmse) with test data for evaluation
-  ### set cold start strategy to 'drop' to ensure we don't get NaN evaluation metrics
   
 ![Screenshot from 2022-06-23 10-31-14](https://user-images.githubusercontent.com/60329354/175359380-28a5ba98-a4d6-4b68-a28f-1ea53f31c348.png)
 
