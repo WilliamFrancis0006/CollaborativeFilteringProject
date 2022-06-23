@@ -6,6 +6,7 @@
  Lastly we evaluate the ALS model using RSME and the predict a few possible recommendations
  Below is each task listed with the corresponding screenshots
  
+ 
   #Task 1: 
   a) Create SparkSession
   b) Define Schema for Books & Rating csv files
@@ -47,7 +48,15 @@
   
 ![Screenshot from 2022-06-23 10-31-14](https://user-images.githubusercontent.com/60329354/175359380-28a5ba98-a4d6-4b68-a28f-1ea53f31c348.png)
 
-  Task 3: c) Predict Recommendation
+  c) Predict Recommendation
+
+![Screenshot from 2022-06-23 10-31-21](https://user-images.githubusercontent.com/60329354/175360274-27efa9a4-4df7-4ab8-adad-56685c5b9816.png)
+
+![Screenshot from 2022-06-23 10-31-42](https://user-images.githubusercontent.com/60329354/175360278-6946b550-50fa-4e21-b256-71ceb084a3a2.png)
+
+![Screenshot from 2022-06-23 10-31-51](https://user-images.githubusercontent.com/60329354/175360257-b0f41dd5-e7c3-4179-9634-ce3a12bfe5e5.png)
+
+![Screenshot from 2022-06-23 10-32-08](https://user-images.githubusercontent.com/60329354/175360249-16e952e0-3061-4385-a94d-012e828df28d.png)
 
 ![Screenshot from 2022-06-23 10-32-17](https://user-images.githubusercontent.com/60329354/175359433-aeea3290-8991-4f66-82df-777eb0485e23.png)
 
