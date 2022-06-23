@@ -11,8 +11,6 @@
   ## Task 1: 
   ### a) Create SparkSession
   ### b) Define Schema for Books & Rating csv files
-  (Book.csv Schema)
-  (Rating.csv Schema)
 
 ![Screenshot from 2022-06-23 10-28-57](https://user-images.githubusercontent.com/60329354/175359217-60bf53c0-9958-47f2-b282-15bd5a2e8324.png)
 
@@ -40,7 +38,7 @@
 
   ## Task 3: 
   ### a) Build a recommendation model using Alternating Least Squares (ALS)
-  (Randomly splits jdf into 80% for training & 20% for testData)
+  (Randomly splits jdf into 80% for trainingData & 20% for testData)
   ###  b) Evaluate the ALS model using Root Mean Square Error (RSME)
   
 ![Screenshot from 2022-06-23 10-31-14](https://user-images.githubusercontent.com/60329354/175359380-28a5ba98-a4d6-4b68-a28f-1ea53f31c348.png)
